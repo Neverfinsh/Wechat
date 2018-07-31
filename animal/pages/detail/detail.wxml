@@ -1,0 +1,22 @@
+<view >
+  <view class='row'>
+      <label class='title'> 我的地址</label>
+      <view class='title' >{{address}}</view>
+  </view>
+  <view class='row'>
+    <label class='title'>类型</label>
+      {{typeInfo}}
+  </view>
+  <view class='row'>
+    <label class='title'>说明</label>
+    <view>
+     {{message}}
+    </view>
+  </view>
+  <view class='row'>
+    <label class='title'>联系方式</label>
+    <view>
+       {{contack}}
+    </view>
+  </view>
+</view>

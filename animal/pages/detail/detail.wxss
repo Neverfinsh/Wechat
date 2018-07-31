@@ -1,0 +1,38 @@
+/* pages/publish/publish.wxss */
+.row{
+  height: 60px;
+  width:100%;
+  top: 10px;
+  border-bottom: 1px solid #000;
+  padding-top: 30px;
+  background: white;
+}
+.publish-btn{
+
+  height: 50px;
+  width:100%;
+  background: yellow;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 30px;
+  border-radius: 30px;
+}
+.title{
+       margin-right: 30px;
+       float: left
+}
+page{
+  background: #eee;
+}
+.placeholder-input{
+  margin-left: 30px;
+}
+.success{
+  line-height: 100px;
+  text-align: center;
+  background: white;
+  font-size: 16;
+}
+.back-btn{
+margin-bottom: 20px;
+}
